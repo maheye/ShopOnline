@@ -1,0 +1,12 @@
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.deps.json
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.dll
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.pdb
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.AssemblyInfoInputs.cache
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.AssemblyInfo.cs
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.csproj.CoreCompileInputs.cache
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.sourcelink.json
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.dll
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/refint/ShopOnline.Models.dll
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.pdb
+/Users/maheye/Documents/BYU-Idaho/CSE325Final/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ref/ShopOnline.Models.dll
